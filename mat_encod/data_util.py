@@ -13,7 +13,7 @@ import json
 from sklearn.model_selection import train_test_split
 
 # Load element data
-json_path = 'Data/ele_data/Aflow_e_data.json'
+json_path = 'data/ele_data/Aflow_e_data.json'
 with open(json_path, 'r') as file:
     ele_data = json.load(file)
 

@@ -9,8 +9,8 @@ info_dict = {
     'target_key': "wasserstein_dist_vs_pt",  # Target key
     'xlabel': r"DFT Calculated cosine_similarity_vs_pt$",
     'ylabel': r"ML Predicted cosine_similarity_vs_pt$",
-    'json_path': "Data/lib5_FCC_CS_training.json",  # Data path
-    'base_output_dir': "Output/Training/",
+    'json_path': "data/lib5_FCC_CS_training.json",  # Data path
+    'base_output_dir': "output/training/",
     'remove_nan': True,  # Remove data points where target value is nan
     'param_grid': {
         'n_estimators': [200],

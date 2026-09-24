@@ -9,11 +9,19 @@ The `RF_single.py` script in this directory provides a simple example for predic
 
 This script is intended as a minimal working reference and starting point for composition-driven machine learning workflows in HEA discovery.
 
-Copyright © 2025 Johns Hopkins.
+## Citation
 
-This work is provided for review purposes only.
-No permission is granted to copy, use, modify, or distribute this code or any part thereof until the conclusion of the peer-review process and explicit relicensing.
+Published as:
 
-If you wish to use this work or have any questions regarding its license, please contact the author.
+> G. Han, T. Li, X. Xu, J. Lee, G. Qiu, S. Sequeira, A. Ajith, and C. Oses,
+> *The search for high-entropy fuel-cell catalysts using disorder descriptors*,
+> Nano Futures **9**, 045001 (2025).
+> [doi:10.1088/2399-1984/ae19b0](https://doi.org/10.1088/2399-1984/ae19b0)
 
-Unauthorized use is strictly prohibited during the review period.
+Open access. BibTeX is in `IOPEXPORT_BIB.bib`.
+
+## License
+
+Copyright © 2025 Entropy for Energy Lab, Johns Hopkins University.
+
+Released under the MIT License; see `LICENSE`.
